@@ -82,6 +82,8 @@ python "三模型对比/三模型对比与性能评估.py"
 
 ## 数据说明
 
+Data from https://www.kaggle.com/datasets/programmer3/semiconductor-sensor-data-for-predictive-quality。
+
 `semiconductor_quality_control.csv` 包含 4219 条晶圆制造工艺记录，涵盖 10 个工艺参数和缺陷标签：
 
 | 字段                  | 含义                       |
